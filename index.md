@@ -1,9 +1,10 @@
 # Bill McAlister
 
 ## My Projects
-- [__Jiffy Map demo__](./webmaps/jiffy/index.md)
+- [__Jiffy Map demo__](./webmaps/jiffy/
 - [__To Do List__](./todo.md)
 - [__Example Webmap__](/webmaps/example.html)
+- [__Survey Feature Types__](./survey.md)
 
 # GPS Survey Elements
 
