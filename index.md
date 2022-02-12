@@ -1,5 +1,9 @@
-- [__webmaps__](./webmaps/index.md)
-- [__webmaps folder__](./webmaps/)
+#Bill McAlister
+
+## My Projects
+- [__Jiffy Map demo__](./webmaps/jiffy/index.md)
+- [__To Do List__](./todo.md)
+- [__Example Webmap__](/webmaps/example2.html)
 
 # GPS Survey Elements
 
