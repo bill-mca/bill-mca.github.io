@@ -1,4 +1,4 @@
-#Bill McAlister
+# Bill McAlister
 
 ## My Projects
 - [__Jiffy Map demo__](./webmaps/jiffy/index.md)
