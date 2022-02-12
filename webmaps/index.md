@@ -1,12 +1,12 @@
 # GPS Survey Elements
 
-## infrastructure
+## Infrastructure
 - Strainer post
 - Gate
 - Trough
 - Vehicle crossing
 
-##Landscape interpretation
+## Landscape interpretation
 - Soil profile
 - Soil observation
 - Geomorphic unit
