@@ -3,7 +3,7 @@
 ## My Projects
 - [__Jiffy Map demo__](./webmaps/jiffy/index.md)
 - [__To Do List__](./todo.md)
-- [__Example Webmap__](/webmaps/example2.html)
+- [__Example Webmap__](/webmaps/example.html)
 
 # GPS Survey Elements
 
