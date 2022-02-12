@@ -1,5 +1,5 @@
-[__webmaps__](./webmaps/index.md)
-[__webmaps folder__](./webmaps/)
+- [__webmaps__](./webmaps/index.md)
+- [__webmaps folder__](./webmaps/)
 
 # GPS Survey Elements
 
