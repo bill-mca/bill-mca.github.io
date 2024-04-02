@@ -1,25 +1,21 @@
-﻿![](src/cybernetic-stream-table.png)
+![](src/cybernetic-stream-table.png)
 # Introduction
  Bill McAlister. I'm undertaking the Master of Applied Cybernetics at ANU and this website has been created to document my learning as I progress towards Building cyber-physical inventions alone or in interdisciplinary teams. The first invention, that I have undertaken to build alone, is called the cybernetic stream table and you'll read many references to it throughout this site.   
 
-Please choose from the list below to learn about my journey developing the skills of a cybernetician.
-<!---
-To Do:
-
-6. test the jekyll component
---->
 ## Skill choices
-Here are the skills that I'd like to develop:
+
+Please choose from the list below to learn about my journey developing the skills of a cybernetician:
+
 1. [Markdown publishing](Markdown-publishing.md)
 2. [Systems thinking](Systems-thinking.md)
 3. [Computer vision](Computer-vision.md)
 4. [Purposeful interdisciplinary collaboration](Purposeful-interdisciplinary-collaboration.md)
 
-![](src/investigating-table.lpg)
+![](src/investigating-table.jpg)
 
 This is a Jekyll website created with markdown. 
 
-# Markdown
+# Markdown publishing
 Markdown is a writing format for text files that can be automatically converted to many other formats. I got interested in learning markdown when I learnt about GitHub pages. This service allows you to generate whole websites from your uploaded markdown. Markdown can also be transformed into PDFs and Word documents. Drafting documents in markdown leaves you open to later publish in any format or several at once.
 
 Part of the appeal of using markdown to author content is that it is straight-forward to write scripts that query and edit it.  At a later date, if I decide a that I want to re-publish this website as a PDF, I might need to change the format of the references. Because it is markdown, I'll be able to write simple code to process the raw md files and make the necessary changes to the reference format. I can also throw all the markdown that I have ever written into a big folder and then use tools like grep to find all mentions, for example, of the term 'systems thinking'. Markdown can also be integrated with GNU transparency tools such as git and make. This way, the full process of authoring the document is open for anyone to see or replicate. I think this creates fascinating data especially for documents that are be maintained over a long time or remixed. In sum, I think markdown is the best way of encoding text for future knowledge systems and that learning to do it well will open up possibilities for me and just generally make the world a better place. 
@@ -60,7 +56,7 @@ I've done a lot of writing in markdown since starting this course including [two
 **Some progress amid frustrations.**
 I have made PDF versions of my two skills work assignments but the process was not smooth for either of them. For skills work assignment 2 I ended up having to make the PDF via some edits on a docx version because I couldn't debug the pandoc errors in time for submission!
 
-![My current setup of pandoc crashes anytime the markdown file includes an emoji.](src/no-emojis.png)
+![My current setup of pandoc crashes anytime the markdown file includes an emoji.](src/no-emojis-allowed.png)
 
 I've had frustrating errors thrown at me by pandoc. Here's a list of the issues I encountered while trying to PDF Build Skills 2: 
 1. The default margins are much too big
