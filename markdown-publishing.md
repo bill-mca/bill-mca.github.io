@@ -7,7 +7,7 @@ Markdown can also be integrated with GNU transparency tools such as git and make
  
 ## Objectives
 1. Identify software and establish workflows for doing as much of my writing as possible in markdown and versioning it with Git.
-3.  Author large documents in markdown including academic citations, footnotes, internal references, figure captions etc. 
+3. Author large documents in markdown including academic citations, footnotes, internal references, figure captions etc. 
 4. Be able to apply and customise Jekyll templates to design markdown based websites.
 
 ## Prior knowledge
@@ -47,7 +47,7 @@ I've had frustrating errors thrown at me by pandoc. Here's a list of the issues 
 1. The default margins are much too big
 2. Some of the figures are given captions but some are not
 3. Some of the ordered lists are not recognized as such and so drawn as big ugly blocks of text
-4. some hashes (##) were randomly inserted in the document
+4. Some hashes (##) were randomly inserted in the document
 5. Heading sizes are hard to tell apart and the navigation pane of the PDF reader didn't show the expected hierarchy
 
 ![Pandoc's default PDF has enormous margins and it didn't recognise my list for some reason.](src/ugly-squashed-list.png)
@@ -58,6 +58,4 @@ So far, I would've been better off using familiar tools such as Microsoft Word t
 
 ### Objective 3 - Publishing websites
 **Starting out.**
-This website represents my first serious attempt at publishing a markdown-based website. I feel that it is functional but I haven't even started on trying to design something appealing. Also, as it is the medium has been limiting me somewhat. I've held back on adding some content because of a feeling that it would be too much hassle to pull off. hopefully chipping away at this over the next couple of months will  
-
-I haven't been able to do references for this site properly. All the references have had to go on a separate page rather than being placed near where they are on the site. This was mostly due to time constraints but I anticipate referencing to be one of the major challenges in mastering this markdown skill.
+This website represents my first serious attempt at publishing a markdown-based website. I feel that it is functional but I haven't even started on trying to design something appealing. Also, as it is, the medium has been limiting me somewhat. I've held back on adding some content because of a feeling that it would be too much hassle to pull off. I haven't been able to do references for this site properly. All the references have had to go on a separate page rather than being placed near where they are on the site. This was mostly due to time constraints but I anticipate referencing to be one of the major challenges in mastering this markdown skill.
