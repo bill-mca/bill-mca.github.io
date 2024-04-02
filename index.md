@@ -6,10 +6,10 @@ I'm undertaking the Master of Applied Cybernetics at ANU and this website has be
 
 Please choose from the list below to learn about my journey developing the skills of a cybernetician:
 
-1. [Markdown publishing](markdown-publishing.md)
-2. [Systems thinking](systems-thinking.md)
-3. [Computer vision](computer-vision.md)
-4. [Purposeful interdisciplinary collaboration](purposeful-interdisciplinary-collaboration.md)
+1. [Markdown publishing](markdown-publishing)
+2. [Systems thinking](systems-thinking)
+3. [Computer vision](computer-vision)
+4. [Purposeful interdisciplinary collaboration](purposeful-interdisciplinary-collaboration)
 
 ![](src/investigating-table.jpg)
 
