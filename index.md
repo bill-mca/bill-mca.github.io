@@ -1,15 +1,15 @@
 ![](src/cybernetic-stream-table.png)
 # Introduction
- Bill McAlister. I'm undertaking the Master of Applied Cybernetics at ANU and this website has been created to document my learning as I progress towards Building cyber-physical inventions alone or in interdisciplinary teams. The first invention, that I have undertaken to build alone, is called the cybernetic stream table and you'll read many references to it throughout this site.   
+I'm undertaking the Master of Applied Cybernetics at ANU and this website has been created to document my learning as I progress towards Building cyber-physical inventions alone or in interdisciplinary teams. The first invention, that I have undertaken to build alone, is called the cybernetic stream table and you'll read many references to it throughout this site.   
 
 ## Skill choices
 
 Please choose from the list below to learn about my journey developing the skills of a cybernetician:
 
-1. [Markdown publishing](Markdown-publishing.md)
-2. [Systems thinking](Systems-thinking.md)
-3. [Computer vision](Computer-vision.md)
-4. [Purposeful interdisciplinary collaboration](Purposeful-interdisciplinary-collaboration.md)
+1. [Markdown publishing](markdown-publishing.md)
+2. [Systems thinking](systems-thinking.md)
+3. [Computer vision](computer-vision.md)
+4. [Purposeful interdisciplinary collaboration](purposeful-interdisciplinary-collaboration.md)
 
 ![](src/investigating-table.jpg)
 
