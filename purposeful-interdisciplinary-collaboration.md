@@ -1,3 +1,4 @@
+# Purposeful interdisciplinary collaboration
 I'm not exactly sure how to phrase this one, I'm hoping that I will come up with some better terminology for this as I progress in the course, but I'd like to be purposeful in working on solutions that meet a genuine need. I see this as a skill of interdisciplinary work as a specialist is only meeting a genuine need when their work makes sense in a wider context.
 
 I believe that interdisciplinary collaboration I will try to hone my conceptualisation of this skill before the 2nd check point. As it becomes clearer, it is possible that I will just fold this skill into systems thinking 
@@ -14,4 +15,7 @@ In (poorly) defining this desire, I'm drawing on the concepts of holistic grazin
 
 One way of making a start on developing this skill, leveraging the build project, would be to go to the potential end users of the technology that I am developing and then ask them to work with me on it so that what I come out with meets their needs.
 
+## References
 
+Savory, A & Butterfield, J, 1999, *Holistic management: a new framework
+for decision making*, Island Press, Washington, D. C.
