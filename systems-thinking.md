@@ -1,4 +1,8 @@
-# Systems thinking
+
+According to Donella Meadows, a system is:
+
+>... an interconnected set of elements that is coherently organized in a way that achieves something. … a system must consist of three kinds of things: elements, interconnections and a function or purpose.
+
 ## Objectives 
 1. Apply systems thinking to the design of CPS
 2. Effectively communicate about systems with diverse audiences

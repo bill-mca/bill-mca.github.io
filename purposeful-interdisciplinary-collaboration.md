@@ -1,4 +1,3 @@
-# Purposeful interdisciplinary collaboration
 I'm not exactly sure how to phrase this one, I'm hoping that I will come up with some better terminology for this as I progress in the course, but I'd like to be purposeful in working on solutions that meet a genuine need. I see this as a skill of interdisciplinary work as a specialist is only meeting a genuine need when their work makes sense in a wider context.
 
 I believe that interdisciplinary collaboration I will try to hone my conceptualisation of this skill before the 2nd check point. As it becomes clearer, it is possible that I will just fold this skill into systems thinking 

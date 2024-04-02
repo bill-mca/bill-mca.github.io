@@ -1,5 +1,4 @@
-# Computer vision
-This will be fundamental to the CPS project that I have in mind. In thinking of ideas for my CPS project, I heavily favoured projects that involved computer vision as it is increasingly important to the work I do in environmental science. The drone technology that I am hoping to work on in the future is based on computer vision for two separate applications:
+Computer vision will be fundamental to the cybernetic stream table project. In thinking of ideas for my CPS project, I heavily favoured projects that involved computer vision as it is increasingly important to the work I do in environmental science. The drone technology that I am hoping to work on in the future is based on computer vision for two separate applications:
 1. Photogrammetry makes mathematical models by comparing many images to each other.
 2. Remote sensing categorises image data to draw conclusions about the health of plants or ecosystems. It sometimes draws on hyperspectral data to augment the visible light images.
 
