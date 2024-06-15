@@ -1,6 +1,3 @@
----
-layout: page
----
 # Systems thinking
 According to Donella Meadows, a system is:
 

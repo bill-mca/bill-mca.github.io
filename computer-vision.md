@@ -1,6 +1,3 @@
----
-layout: page
----
 # Computer vision
 Computer vision will be fundamental to the cybernetic stream table project. In thinking of ideas for my CPS project, I heavily favoured projects that involved computer vision as it is increasingly important to the work I do in environmental science. The drone technology that I am hoping to work on in the future is based on computer vision for two separate applications:
 1. Photogrammetry makes mathematical models by comparing many images to each other.
