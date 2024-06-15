@@ -1,3 +1,6 @@
+---
+layout: page
+---
 
 Hocking, TV, 2010, 'Designerly Ways of Knowing: What Does Design Have to
 Offer?', in *Tackling Wicked Problems*, Routledge.

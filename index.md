@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ![](src/cybernetic-stream-table.png)
 # Introduction
 I'm undertaking the Master of Applied Cybernetics at ANU and this website has been created to document my learning as I progress towards Building cyber-physical inventions alone or in interdisciplinary teams. The first invention, that I have undertaken to build alone, is called the cybernetic stream table and you'll see many references to it throughout this site.   

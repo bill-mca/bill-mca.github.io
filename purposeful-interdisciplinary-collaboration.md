@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Purposeful interdisciplinary collaboration
 I'm not exactly sure how to phrase this one, I'm hoping that I will come up with some better terminology for this as I progress in the course, but I'd like to be purposeful in working on solutions that meet a genuine need. I see this as a skill of an effective interdisciplinary collaborator. A specialist is only meeting a genuine need when their work makes sense in a wider context.
 
