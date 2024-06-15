@@ -19,4 +19,18 @@ Please choose from the list below to learn about my journey developing the skill
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BN-fmgvR89Y?si=YZU2nfn3Psll0Yj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br>
+
+<div class="w3-light-grey">
+  <div class="w3-grey" style="height:24px;width:25%"></div>
+</div><br>
+
+<div class="w3-light-grey">
+  <div class="w3-grey" style="height:24px;width:50%"></div>
+</div><br>
+
+<div class="w3-light-grey">
+  <div class="w3-grey" style="height:24px;width:75%"></div>
+</div>
+
 This is a Jekyll website created with markdown. 
