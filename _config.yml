@@ -22,7 +22,8 @@ title: Build Journey --- Bill McAlister
 email: william.mcalister@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog to keep track of my skill progression as I undertake
-  the Master of Applied Cybernetics at ANU.
+  the Master of Applied Cybernetics at ANU. *This is a Jekyll website 
+  written in markdown.*
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bill-mca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bill-mca
