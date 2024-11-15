@@ -66,7 +66,7 @@ I'm going to need to invest a bit of time in experimentation if I want to succee
 
 I'm satisfied that I've become quite competent at using Markdown to author content. Though I had struggles at the end of semester one and used other tools to produce documents, my habit of writing in Markdown recovered and I have since had a lot of practice[^sibanetics][^buildskills]. 
 
-I'm comfortable that HackMD is amoung the best available authoring tools. However, depending on the situation, I sometimes use the default text editor on my Chromebook. HackMD is more powerful and allows me to commit directly to GitHub repositories. It also has a save as you go feature and the ability to preview what's being written. I typically use it to author long or complex documents. I'm also satisfied that Git and especially GitHub is a great way of storing and keeping track of my Markdown documents. As I noted in my March update, GitFiend has been a real game changer in making Git very easy and quick to use. I no longer hesitate in establishing new repositories, cloning them, branching them, reverting them, etc. And this granular versioning control over my documents is extremely powerful. I'm very satisfied that I've developed the skill to write in markdown and I'm confident that it will be useful in the future.
+I'm comfortable that HackMD is amoung the best available authoring tools. However, depending on the situation, I sometimes use the default text editor on my Chromebook. HackMD is more powerful and allows me to commit directly to GitHub repositories. It also has a save as you go feature and the ability to preview what's being written. I typically use it to author long or complex documents. I'm also satisfied that Git and especially GitHub is a great way of storing and keeping track of my Markdown documents. As I noted in my March update, GitFiend has been a real game changer in making Git very easy and quick to use. I no longer hesitate in establishing new repositories, cloning them, branching them, reverting them, etc. and this granular versioning control over my documents is extremely powerful. I'm very satisfied that I've developed the skill to write in markdown and I'm confident that it will be useful in the future.
 
 Starting out, I believe that I was looking for a single monolithic tool that would allow me to easily author markdown while previewing and also keeping track of versions and exporting into multiple formats. I realised that my perspective has changed and now I'm quite happy to maintain a library or libraries of different markdown documents and to edit and process these with numerous different tools as situationally required. I realised that I've effectively adopted the Unix philosophy in my approach to document authorship now. 
 
@@ -100,7 +100,7 @@ So far, I would've been better off using familiar tools such as Microsoft Word t
 As described above, my habit of authoring in markdown fell apart towards the end of semester 1. I didn't get any practice using Pandoc to pull together complicated documents because I didn't have the content in markdown format. 
 
 #### November 2024
-*Accomplished but also... goal changed*
+*Accomplished but also... goal transcended*
 
 I made a lot of progress towards learning how to publish good quality documents from my Markdown. However, my conception of this goal also changed somewhat. 
 
@@ -131,6 +131,14 @@ On the good side, I've figured out how to setup a Jekyll development environment
 ![The develpment folder on my chromebook](/src/development-environment.png)
 
 One challenge in applying the templates was that github pages can't deploy most templates automatically. It should've been obvious but it took me running into that wall to realise that Jekyll, when run on my local machine, generates a folder `_site` that holds the html CSS and javascript generated from the template and the markdown. So, for the next checkpoint, I should be able to use my local development environment to generate quite a complex  site and then manually upload it to a static site host. This is important because I feel that this template is over-full with content now that it includes two checkpoint. 
+
+#### November 2024
+
+*Good progress*
+
+I did not have very much time to experiment further with Jekyll publishing during the second semester. I did have a go at changing the theme of this website while I was editing it ([code is commited here](https://github.com/bill-mca/bill-mca.github.io/tree/theme-change). I succeeded in previewing several different themes but I decided that the theme that I used in June was the most practical of all the themes that I have tried. If I had more time, I would like to add a navigation bar to make long pages easier to navigate. There are some aspects of this site that are clunky. The way that I reference and hyperlink things is pretty inconsistent. These are mostly teething problems that reulted from me building this website as a beginner. I believe that the next website that I build with Jekyll will actually be quite sleek.
+
+Though I didn't manage to customise a template during semester 2, I feel that I got pretty close to accomplishing everything that I wanted to with my markdown website skill and I do feel confident that I'll now be able to use markdown to publish my own blog. 
 
 ## Final Reflections
 
