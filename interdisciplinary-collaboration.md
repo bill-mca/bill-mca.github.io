@@ -35,9 +35,9 @@ Through participation in the Master's of Applied Cybernetics, I've made some pro
 
 Practicing interdisciplinary collaboration as part of the Master's has helped me to recognise what useful skills and tools I already had at my disposal. One of the most important steps in interdisciplinary research, in my opinion, is the recognition of different worldviews and perspectives. 
 
-Moon and Blackman's tools[^moon&blackman] have been a useful framework, but I've really become familiar with their application through participation in this Master's program, especially because my peers have been a quite diverse group, and conversing with them about cybernetics has given me practice in the recognition of different perspectives. Moon and Blackman's framework[^moon&blackman] can help to identify where worldviews are very dissimilar and potentially incompatible. I believe this is a good early step and an important skill in interdisciplinary collaboration. 
+Moon and Blackman's tools[^moonblackman] have been a useful framework, but I've really become familiar with their application through participation in this Master's program, especially because my peers have been a quite diverse group, and conversing with them about cybernetics has given me practice in the recognition of different perspectives. Moon and Blackman's framework[^moonblackman] can help to identify where worldviews are very dissimilar and potentially incompatible. I believe this is a good early step and an important skill in interdisciplinary collaboration. 
 
-Participating in the Master's has also helped me to recognise the value of Lorrae Van Kerkhoff's thesis work[^kerkhoff]. Lorrae presents several mental models of different ways of conducting interdisciplinary research. While I haven't used these in conversation with my peers during the Master's of Applied Cybernetics, they have been in my mind and I feel that I've had a little bit more experience of applying them. Similarly, Valerie Brown's book [^twptti] has come to mind many times throughout the practice of interdisciplinary work in the Master's program. Some of the theory that we encountered as part of the Master's program will stick with me and be useful. Ariella Helfgott gave us a lecture in first semester in which she talked about her personal experience[^helfgott] of applying techniques much like systemic intervention[^midgley&richardson] to assimilate discordant views of wicked problems. 
+Participating in the Master's has also helped me to recognise the value of Lorrae Van Kerkhoff's thesis work[^kerkhoff]. Lorrae presents several mental models of different ways of conducting interdisciplinary research. While I haven't used these in conversation with my peers during the Master's of Applied Cybernetics, they have been in my mind and I feel that I've had a little bit more experience of applying them. Similarly, Valerie Brown's book [^twptti] has come to mind many times throughout the practice of interdisciplinary work in the Master's program. Some of the theory that we encountered as part of the Master's program will stick with me and be useful. Ariella Helfgott gave us a lecture in first semester in which she talked about her personal experience[^helfgott] of applying techniques much like systemic intervention[^midgleyrichardson] to assimilate discordant views of wicked problems. 
 
 Furthermore, in second semester, Daniel Wilden lectured us about his experience of speaking to supply chain managers about systemic perspectives[^wilden]. Of particular interest was a framework that Daniel presented of different types of problems in terms of complexity and contestation and the different systems methodologies and where it may be appropriate to apply each of them. I've also been exposed to the work of Paul Pangaro who argues that cybernetics is about conversations between systems[^pangaro]. I can see how this second order cybernetic thinking could provide a profound narrative for the purpose of interdisciplinary collaboration and I would really like to read some more of Paul's work after the course has concluded.
 
@@ -55,8 +55,7 @@ I certainly don't feel confident that I have mastered interdisciplinary collabor
 
 ## References
 
-[^savory]: Savory, A & Butterfield, J, 1999, *Holistic management: a new framework
-for decision making*, Island Press, Washington, D. C.
+[^savory]: Savory, A & Butterfield, J, 1999, *Holistic management: a new framework for decision making*, Island Press, Washington, D. C.
 
 [^kerkhoff]: 
 
@@ -66,10 +65,10 @@ for decision making*, Island Press, Washington, D. C.
 
 [^helfgott]: 
 
-[^midgley&richardson]:
+[^midgleyrichardson]:
 
 [^twptti]: Brown
 
-[^moon&blackman]: 
+[^moonblackman]: 
 
 [^sibanetics]
