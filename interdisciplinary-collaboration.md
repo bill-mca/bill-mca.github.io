@@ -42,7 +42,7 @@ Participating in the Master's has also helped me to recognise the value of Lorra
 
 Furthermore, in second semester, Daniel Wilden lectured us about his experience of speaking to supply chain managers about systemic perspectives. Of particular interest was a framework that Daniel presented of different types of problems in terms of complexity and contestation and the different systems methodologies and where it may be appropriate to apply each of them. I've also been exposed to the work of Paul Pangaro who argues that cybernetics is about conversations between systems[^pangaro]. I can see how this second order cybernetic thinking could provide a profound narrative for the purpose of interdisciplinary collaboration and I would really like to read some more of Paul's work after the course has concluded.
 
-#### Foster Shared Values
+#### Identify Shared Values
 
 *Good Progress*
 

@@ -1,8 +1,8 @@
 ---
 layout: home
+title: Introduction
 ---
 
-# Introduction
 This website is a record of my learning journey undertaking the Masters of Applied Cybernetics at ANU. During the course of the project I undertook two different build projects. The first one was the construction of a Cybernetic Stream Table (CST) and the second was a device called Focused Hearing which used lip reading to augment conventional hearing aids.
 
 This website documents the progression of my skills focused on those four skills that I chose to track throughout the program. Those skills are This website is created using github pages and Jekyll. It thereby exemplifies my markdown publishing skills. 
@@ -26,7 +26,7 @@ To summarise my progress here is self assessment of my accomplishments as of Nov
    - [Algorithm Development](computer-vision#november-2024-2) *I made some progress towards this goal*
 4. [Interdisciplinary Collaboration](interdisciplinary-collaboration)
    - [Tools and Strategies](interdisciplinary-collaboration#tools-and-strategies) *I made some progress towards this goal*
-   - [Foster Shared Values](interdisciplinary-collaboration#foster-shared-values) *I made good progress towards this goal*
+   - [Identify Shared Values](interdisciplinary-collaboration#identify-shared-values) *I made good progress towards this goal*
   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BN-fmgvR89Y?si=YZU2nfn3Psll0Yj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
