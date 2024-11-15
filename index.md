@@ -2,18 +2,32 @@
 layout: home
 ---
 
-![](src/cybernetic-stream-table.png)
 # Introduction
-I'm undertaking the Master of Applied Cybernetics at ANU and this website has been created to document my learning as I progress towards building cyber-physical inventions alone or in interdisciplinary teams. The first invention, that I have undertaken to build alone, is called the cybernetic stream table and you'll see many references to it throughout this site.   
+This website is a record of my learning journey undertaking the Masters of Applied Cybernetics at ANU. During the course of the project I undertook two different build projects. The first one was the construction of a Cybernetic Stream Table (CST) and the second was a device called Focused Hearing which used lip reading to augment conventional hearing aids.
+
+This website documents the progression of my skills focused on those four skills that I chose to track throughout the program. Those skills are This website is created using github pages and Jekyll. It thereby exemplifies my markdown publishing skills. 
+
 
 # Skill choices
+My background is in natural resource management and scientific research. Coming into this course I had some technical skills and a real interest in learning more about the system's lens and how to apply it effectively. Two of the skills that I chose were computer skills. Computer vision is a programming skill. I also chose two skills that are higher order thinking skills. Systems thinking and interdisciplinary collaboration are skills of relating to other people.
 
-Please choose from the list below to learn about my journey developing the skills of a cybernetician:
-
+To summarise my progress here is self assessment of my accomplishments as of November 2024:
 1. [Markdown Publishing](markdown-publishing)
+   - [Workflow](bill-mca.github.io/markdown-publishing.html#november-2024) I accomplished this goal
+   - [Publishing Documents](bill-mca.github.io/markdown-publishing.html#november-2024-1) I accomplished this goal... but also transcended it
+   - [Publishing Websites](bill-mca.github.io/markdown-publishing.html#november-2024-2) I made good progress towards this goal
 2. [Systems Thinking](systems-thinking)
+   - [Systems Thinking for Design](bill-mca.github.io/systems-thinking.html#november-2024) I transcended this goal
+   - [Communicating about Systems](bill-mca.github.io/systems-thinking.html#november-2024-1) I made good progress towards this goal
+   - [Futuring with CPS](bill-mca.github.io/systems-thinking.html#november-2024-2) I made good progress towards this goal
 3. [Computer Vision](computer-vision)
+   - [Object Recognition](bill-mca.github.io/computer-vision.html#november-2024) I accomplished this goal
+   - [Algoritm Choice](bill-mca.github.io/computer-vision.html#november-2024-1) I made good progress towards this goal
+   - [Algorithm Development](bill-mca.github.io/computer-vision.html#november-2024-2) I made some progress towards this goal
 4. [Interdisciplinary Collaboration](interdisciplinary-collaboration)
+   - [Tools and Strategies](bill-mca.github.io/interdisciplinary-collaboration.html#tools-and-strategies) I made some progress towards this goal
+   - [Foster Shared Values](bill-mca.github.io/interdisciplinary-collaboration#foster-shared-values) I made good progress towards this goal
+  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BN-fmgvR89Y?si=YZU2nfn3Psll0Yj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
