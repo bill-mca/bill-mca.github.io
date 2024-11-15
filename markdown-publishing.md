@@ -19,6 +19,7 @@ Markdown can also be integrated with open-source collaboration transparency tool
 **Limited.**
 
 Before starting this course, I had an app on my phone to write notes in markdown so I've been taking all my personal notes in markdown for a few years. I had also published a very small amount of markdown as readmes for my major coding projects.  Below is the most sophisticated markdown I had written before starting the course. The [file can be found on my GitHub profile](https://github.com/bill-mca/geotag-leaflet/blob/main/README.md).
+
 ```
 # geotag-leaflet
 
@@ -34,6 +35,7 @@ generate_thumbnails.py makes a copy of a directory with all jpegs shrunk to thum
 
 webmap_from_photos.sh takes a path to a directory full of geotagged photos and will generate thumbnails and a json layer compatible with the included index.html template.
 ```
+
 I'd never used Pandoc before and I'd always used Microsoft Word to author documents. Apart from some brief attempts at writing HTML, I've only ever used integrated content management systems to publish websites. I did have a go at using Jekyll once but didn't get very far. The presentation of this web-page represents the limits of my Jekyll capabilities.
 
 ## Progress
@@ -41,6 +43,7 @@ I'd never used Pandoc before and I'd always used Microsoft Word to author docume
 ### Objective 1 - Workflow
 
 #### March 2024
+
 *Significant progress*
 
 I've done a lot of writing in markdown since starting this course including [two skills work assessments](https://github.com/bill-mca/CYBN8001-Build-Skills/) and [this webpage](https://github.com/bill-mca/bill-mca.github.io)! I've experimented with a few markdown editors and decided that it doesn't really matter which one you use because markdown is so simplistic. My biggest success has been demystifying git by learning to use [Gitfiend](https://gitfiend.com/). 
@@ -48,6 +51,7 @@ I've done a lot of writing in markdown since starting this course including [two
 I'm not comfortable that this objective has been reached. Once I've authored a few large documents I'll feel confident in the workflow that I've established.
 
 #### June 2024
+
 *Some further progress*
 
 With a lot of tight deadlines in the second half of the semester I found myself abandoning markdown as my primary tool for writing. I wrote most of the problematique in Microsoft Word. There were a few reasons:
@@ -55,6 +59,18 @@ With a lot of tight deadlines in the second half of the semester I found myself 
 2. The other editor available on Chromebook, the default text editor, doesn't have a what you see is what you get (WYSIWYG) preview. It also doesn't have a spellchecker. Both of these are serious limitations when you are working on a tight time frame.
 
 I'm going to need to invest a bit of time in experimentation if I want to succeed on this objective. I think I'll need to test which markdown editors I can get from the Debian container in my Chromebook. I'll also need to setup a Github hosted repo for my notes rather than storing them in less reliable locations.
+
+#### November 2024
+
+*Accomplished*
+
+I'm satisfied that I've become quite competent at using Markdown to author content. Though I had struggles at the end of semester one and used other tools to produce documents, my habit of writing in Markdown recovered and I have since had a lot of practice[^sibanetics][^buildskills]. 
+
+I'm comfortable that HackMD is amoung the best available authoring tools. However, depending on the situation, I sometimes use the default text editor on my Chromebook. HackMD is more powerful and allows me to commit directly to GitHub repositories. It also has a save as you go feature and the ability to preview what's being written. I typically use it to author long or complex documents. I'm also satisfied that Git and especially GitHub is a great way of storing and keeping track of my Markdown documents. As I noted in my March update, GitFiend has been a real game changer in making Git very easy and quick to use. I no longer hesitate in establishing new repositories, cloning them, branching them, reverting them, etc. And this granular versioning control over my documents is extremely powerful. I'm very satisfied that I've developed the skill to write in markdown and I'm confident that it will be useful in the future.
+
+Starting out, I believe that I was looking for a single monolithic tool that would allow me to easily author markdown while previewing and also keeping track of versions and exporting into multiple formats. I realised that my perspective has changed and now I'm quite happy to maintain a library or libraries of different markdown documents and to edit and process these with numerous different tools as situationally required. I realised that I've effectively adopted the Unix philosophy in my approach to document authorship now. 
+
+There's one tool for quick note taking, there's one tool for writing long documents, there's one tool for inserting citations, one tool for converting out into different formats, one tool for keeping track of versions, but all tools are simple to use and very effective at what they do.
 
 ### Objective 2 - Publishing documents
 
@@ -83,6 +99,21 @@ So far, I would've been better off using familiar tools such as Microsoft Word t
 
 As described above, my habit of authoring in markdown fell apart towards the end of semester 1. I didn't get any practice using Pandoc to pull together complicated documents because I didn't have the content in markdown format. 
 
+#### November 2024
+*Accomplished but also... goal changed*
+
+I made a lot of progress towards learning how to publish good quality documents from my Markdown. However, my conception of this goal also changed somewhat. 
+
+As part of our CPS build project, two of my peers, Amanda and Shi, made an effort to learn Git and publish Markdown into the same repository as me to document our project. This made me think a lot about how the workflow that I've established for myself can work for collaboration and how hard it is to teach beginners to do the same thing. The reality of working in the modern world is that there's no point in having a very efficient system of authoring documents and websites if it requires technical skills that most people don't have and that take time to learn. Shi was able to pick up Git and Markdown very quickly. It seems as though it was quite intuitive to him. Amanda got frustrated with it a few times and gave up trying to learn. I expect that this is how it would be out in the world, that about half the people you work with will struggle to pick it up. 
+
+When it came time to author the final document for our CPS project, it was clear to me that I should use Microsoft Word so that others could easily collaborate. However, as lead author, producing the first draft was up to me. So I was able to draft all the content in Markdown[^sibanetics] before using Pandoc to convert over to Microsoft Word format. I then uploaded the Word document and my other group members collaboratively edited the final version with me. This was also a pretty effective way of styling the document and spell checking. It increasingly makes sense to me to use a tool like Microsoft Word or Google Docs as the final step in my document authoring pipeline. I can quickly compose most of the content in Markdown and then use Pandoc to convert it for collaborative editing in a format that's common and easy to use for most people. 
+
+Notably, I had a positive experience of using my Markdown skills to help out my girlfriend in preparation of a proposal document for her PhD project. She had authored a fairly large academic document in Microsoft Word and manually written in-text citations and a bibliography. However, there had since been significant edits to the document and the citations and bibliography were out of sync. Using my Markdown skills, I was able to simplify the job of checking the bibliography and the in-text citations against each other. I took a copy of her proposal as a DocX and then converted it to Markdown using Pandoc. I then found a regular expression on the internet (` \(([\w\&\.\s]+,\s\d{4}(;\s+[\w\&\.\s]+,\s\d{4})*)\)`) that fairly reliably identifies Harvard-style in-text citations. I modified this regular expression slightly so that it would include context around the citation. I then ran grep over the Markdown and got it to output a list of all the in-text citations in context. Running through this list, she was able to quickly identify citations that had not been included in the bibliography and those in the bibliography that were no longer cited in text. The satisfying thing is that having solved this problem once, I know that I'll be able to solve problems like it very efficiently in the future.
+
+As noted in relation to workflow, Initially I was looking for a software package that was monolithic and could provide the same features as Microsoft Word (plus more) so that I could author documents from start to finish but also publish them as a website or a PDF easily. [Zettlr](https://www.zettlr.com/) comes close to doing this but it is a bit buggy in my experience. Interestingly, I've now changed my philosophy. When I used to write documents in Microsoft Office, I would use all the complex features such as figure captions, internal references and the Zotero plugin for formatting citations. In hidsight this workflow was problematic when it came to collaboration in the exact same way that I've experienced with my Markdown workflow. Most people don't have the Zotero plugin installed and a lot of people don't know how to use internal references and figure captions. I believe that my approach to document authoring has simplified a lot. Now I just manually write the figure captions in Markdown. Ironically, the Word documents that I now produce are actually easier for people to work on and understand than the Word documents that I used to produce when I was a Microsoft Word user.
+
+Though I'm satisfied with my progress towards this goal, I do feel that my skill will continue to evolve and that I will continue to experiment going forward. I have come across an alternative approach called Scholarly Markdown[^scholarlyMD] which I will look into. I have also found a fantastic article[^seminaryMD] that talks about a pretty easy way of implementing academic references that can be translated across Pandoc's different output formats. I've had a first go at implementing that citation system in the production of this website. 
+
 ### Objective 3 - Publishing websites
 
 #### March 2024
@@ -100,3 +131,22 @@ On the good side, I've figured out how to setup a Jekyll development environment
 ![The develpment folder on my chromebook](/src/development-environment.png)
 
 One challenge in applying the templates was that github pages can't deploy most templates automatically. It should've been obvious but it took me running into that wall to realise that Jekyll, when run on my local machine, generates a folder `_site` that holds the html CSS and javascript generated from the template and the markdown. So, for the next checkpoint, I should be able to use my local development environment to generate quite a complex  site and then manually upload it to a static site host. This is important because I feel that this template is over-full with content now that it includes two checkpoint. 
+
+## Final Reflections
+
+I feel that I've advanced a long way in this skill and I'm also glad that I picked it as one of the skills for my build journey. I'm going to continue to develop this skill over the coming years and to convert more of my workflows into markdown. 
+
+Though I've historically been a skeptic of the concept of a [zettelklaassen](https://zettelkasten.de/overview/), I think I will build a library of my writings in markdown. Doing so should allow me to maintain git versioning of every single document that I've written and to quickly remix content and output it into different formats. I've also read a lot about people establishing [personal language models](https://www.reddit.com/r/LocalLLaMA/) and I believe that this library of my writings assembled in a machine-readable format would enable me to build a pretty powerful PLM. 
+
+I feel that the website publishing part of the skill has got to the point where it should be fairly low fuss for me to write a blog now, so after this program is finished as I am establishing a library of my writings I'll start to publish snippets of them as a personal blog using the skills that I've developed. 
+
+I already see [my Github page](https://github.com/bill-mca) as an intellectual asset that has helped to advance my career and I believe that gradually building up a blog would help me to communicate about who I am and what my goals and professional interests are. I've found that linking people to my Github page is a very quick way of proving my competency as a programmer. Similarly, being able to link people to my blog should quickly demonstrate my capabilities as a writer and my sustained interest in certain topics.
+
+Finally, developing my markdown publishing skill has also given me insights about other technological skills in general. Reflecting on workflows, I noted that, through markdown publishing, I have been practicing the Unix philosophy. I believe that putting a philosophy into practice is how we shift our paradigms and also that having experienced multiple different paradigms, and being able to move between them, is one of the most powerful skills a person can have.
+
+## References
+
+[^sibanetics]: 
+[^buildskills]: 
+[^scholarlyMD]:
+[^seminaryMD]:
