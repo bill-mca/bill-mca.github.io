@@ -48,7 +48,7 @@ I was able to build on the color recognition algorithm that I had written as par
 
 A serious challenge that I overcame in development of focused hearing's computer vision was in making the computer vision algorithm live. The sensors were all on board a small Arduino device and the processing was done by my Linux laptop. The laptop also acted as a server, which live-streamed processed video from the Arduino out to any devices that connected over the Wi-Fi. I ran into many errors while establishing this that related to incomplete and corrupted images. 
 
-[Small Arduinos streaming video for the lip identification algorithm to proceess](src/esp32s3s.jpg)
+![Small Arduinos streaming video for the lip identification algorithm to proceess](src/esp32s3s.jpg)
 
 Interestingly, the web server code had a try statement each time it tried to load a processed image from the computer vision code. This was intended to prevent errors where two different threads are accessing the same file at the exact same time, and it's the type of error that I had never dealt with in my scientific programming. I spent quite a lot of time debugging an error that was derailling this try statement because the way that I'd written the except clause also generated the same error caused by multiple threads accessing the same file at the same time. in the code below, the try and except clause both open a file (`image.jpg`) which is often in the process of being overwritten by the computer vision software that I built. Changing the except statement to show a static test pattern instead of `image.jpg` resolved all the errors. 
 
@@ -148,7 +148,7 @@ I'm very glad that I chose computer vision as a skill for this master's program.
 
 This segues to another of the learnings that I just didn't expect to happen, which is really around just how powerful and fast computers are these days. At some point I realized that my brain is stuck imagining the Pentium 3 or the Celeron 1000 that were the first computers I ever used. Those devices were very much stop start and not live. Even the dial-up internet that they used to connect to would take a minute or so to load up a page of pure text. My work this semester on computer vision has shifted me into a completely different paradigm where the computer's processing of input data is much faster than the human user's capacity to perceive the output. This has opened up the concept of human-computer integration for me.
 
-[How cool is computer vision?](src/lip-vision.jpg)
+![How cool is computer vision?](src/lip-vision.jpg)
 
 Coming into this course I bought a $150 Chromebook second-hand off Gumtree, as from my perspective, there was no limit to what a good programmer could do with lightweight hardware. Coming out of the course I've now got a thirst for modern, powerful computing hardware. I think I'm going to invest in a workstation with a big GPU, as I'm now starting to conceive of whole different ways of using my computer.
 

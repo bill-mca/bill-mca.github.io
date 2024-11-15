@@ -7,8 +7,8 @@ Author: Bill McAlister
 I'm not exactly sure how to phrase this one, I'm hoping that I will come up with some better terminology for this as I progress in the course, but I'd like to be purposeful in working on solutions that meet a genuine need. I see this as a skill of an effective interdisciplinary collaborator. A specialist is only meeting a genuine need when their work makes sense in a wider context.
 
 ## Objectives
-1. Apply new tools and strategies, developed over the course of the MACYB, to interdisciplinary collaboration.
-2. Find ways of embedding shared values into decision making about interdisciplinary projects.
+1. **Tools and Strategies** --- Apply new tools and strategies, developed over the course of the MACYB, to interdisciplinary collaboration collaboration
+2. **Foster Shared Values** --- Find ways of embedding shared values into decision making about interdisciplinary projects
 
 ## Prior knowledge
 In (poorly) defining this goal, I'm drawing on the concepts of holistic grazing management[^savory]. Holistic management asks practitioners to carefully define their values and their decision making context before making any decisions about changes to environmental management regimes. One of the main drivers for me deciding to study the MACYB was the realisation of the importance of interdisciplinary work in the field of environmental management.
@@ -27,7 +27,8 @@ I was thinking of just dropping this skill out of my Build Journey because I hav
 
 ### November 2024
 
-#### Tools and Strategies for Interdisciplinary Collaboration
+#### Tools and Strategies
+
 *Some progress*
 
 
@@ -41,9 +42,11 @@ Participating in the Master's has also helped me to recognise the value of Lorra
 
 Furthermore, in second semester, Daniel Wilden lectured us about his experience of speaking to supply chain managers about systemic perspectives. Of particular interest was a framework that Daniel presented of different types of problems in terms of complexity and contestation and the different systems methodologies and where it may be appropriate to apply each of them. I've also been exposed to the work of Paul Pangaro who argues that cybernetics is about conversations between systems[^pangaro]. I can see how this second order cybernetic thinking could provide a profound narrative for the purpose of interdisciplinary collaboration and I would really like to read some more of Paul's work after the course has concluded.
 
-#### Identify Shared Values as a Basis for Interdisciplinary Collaboration
+#### Foster Shared Values
 
-I made an ambitious attempt at applying this skill as part of the Focused Hearing Project. As our team was deciding what type of project we'd like to work on, I suggested that we first have a discussion about how to make the decision. Through the discussion about how to decide, my team mates backed my idea supported my idea which was that we first decide which values we would like the project to include before we think up a project that incorporates those values. I also encouraged my team mates to write down any deal breakers so that we could treat those as constraints additional to the marking criteria. As the documentation for Focused Hearing is all online, the document that resulted from this process can be accessed on my github[^sibanetics]. 
+*Good Progress*
+
+I made an ambitious attempt at applying this skill as part of the Focused Hearing Project. As our team was deciding what type of project we'd like to work on, I suggested that we first have a discussion about how to make the decision. Through the discussion about how to decide, my team mates backed my idea supported my idea which was that we first decide which values we would like the project to include before we think up a project that incorporates those values. I also encouraged my team mates to write down any deal breakers so that we could treat those as constraints additional to the marking criteria. As the documentation for Focused Hearing is all online, the document that resulted from this process can be [accessed on my github](https://github.com/bill-mca/SIBAnetics/blob/main/Group_Build_Design_Criteria.md)[^sibanetics]. 
 
 I've received good feedback from my peers about my efforts in this regard and I do feel quite satisfied that this process was superior to merely talking about the feasibility of different technical ideas. I think that the discussion of values early on helped us to understand each other's motivations and perhaps also gave us some insights into each other's weaknesses and the aspects of projects that wouldn't interest us. I'm still searching for a theoretical underpinning of this type of work. As I mentioned in my prior knowledge section above, my ideas about how this should be done all come from farm planning, which is an unusual academic basis for something that should be so generally applicable. I feel quite certain that an established method would exist in the intrnational development industry or perhaps for policy. 
 
@@ -59,7 +62,7 @@ I certainly don't feel confident that I have mastered interdisciplinary collabor
 
 [^kerkhoff]: Van Kerkhoff, Lorrae. "'Making a Difference' : Science, Action and Integrated Environmental Research," 2002. <https://doi.org/10.25911/5d6271d5736e4>.
 
-[^pangaro]: *Cybernetics Snacks: Paul Pangaro*. YouTube video. Cybernetics Snacks. Canberra: ANU School of Cybernetics, 2022. https://cybernetics.anu.edu.au/cybernetics-snacks/paul-pangaro/.
+[^pangaro]: *Cybernetics Snacks: Paul Pangaro*. YouTube video. Cybernetics Snacks. Canberra: ANU School of Cybernetics, 2022. <https://cybernetics.anu.edu.au/cybernetics-snacks/paul-pangaro/>.
 
 [^helfgott]: Helfgott, Ariella Ester Rose. "Operationalizing Resilience: Conceptual, Mathematical and Participatory Frameworks for Understanding, Measuring and Managing Resilience." University of Adelaide, 2015. <https://digital.library.adelaide.edu.au/dspace/handle/2440/99913>.
 

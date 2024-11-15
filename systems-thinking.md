@@ -48,9 +48,9 @@ I think I was influenced by existing commercial stream table designs to choose a
 
 In-class exercises about affordances also contributed to the way that I designed the CST. I did a lot of thinking about how to encourage people to play with the table. I knew from my previous experience of using stream tables that children love playing with them but adults are usually hesitant. The above image of the early CST design shows that I had originally thought of using plastic as the medium instead of river sand. Plastic has the advantage of being less dense than sand and so can be transported by lower energy flows. For this reason, many commercially available stream tables use plastics for the medium. However, thinking from a systems perspective, demonstrating  dynamic geomorphic behaviour was less important than getting people engaged in fiddling with the device and, I reasoned, natural sand looked a lot more inviting than brightly coloured, greasy plastic. I'm glad I made the decision, I think that the use of river sand removed one extra abstraction from the design and so made the device more intuitive and explicable for demo-day. That's not to say that it would be impossible to improve the CST with a plastic medium, only that, with the short timeframe that I had, using sand was an easy way to make the device understandable, appealing and functional.
 
-
 #### November 2024
-*Goal shifted*
+
+*Transcended the goal*
 
 I've made some progress towards using systems thinking to design cyber-physical systems. On reflection, this semester my thinking has become increasingly pragmatic about this skill. I believe that when I decided to include this skill in my build journey, I imagined mapping out systems so that they could be understood in advance and that this would inform good design deisions. My thinking has evolved so that now the design is made and prototyped and systems thinking skills are used to fully assimilate the feedback that results from deploying or testing the system in interaction with its wider context. This is akin to the fail fast and iterate approach that characterizes Silicon Valley projects. 
 
@@ -59,11 +59,13 @@ I believe that I have come to this perspective as a result of some of the learni
 ### Objective 2 - Communicating about Systems
 
 #### March 2024
+
 *Starting out*
 
 As part of the pitch of my maker project, I was expected to highlight '...new ideas or thoughts ... relevant to applied cybernetics'.  I tried really hard to get across my ideas about how an extra layer of feedback will change the meaning of the stream table but I felt that I didn't get the message across. I'm looking forward to honing this as the program progresses. I believe that the first demo day will be an excellent opportunity to hone my ability to coherently communicate about systems.
 
 #### June 2024
+
 *Some progress*
 
 I was setting up the CST on demo-day when I had the thought "what does this mean again?" Thankfully the first 5 or 6 people who approached me on demo-day were all friends and family. They helped me to recollect the idea of the CST as an imperfect allegory for how humans manage environmental systems. Nevertheless, I felt quite manic for the whole day and I didn't feel confident that I was getting the message across about the systemic meaning of the project. 
@@ -71,8 +73,8 @@ I was setting up the CST on demo-day when I had the thought "what does this mean
 One thing that I'll do differently in the future is try to be less didactic when using a project like the CST. In hindsight I feel that I treated each interaction something like an oral exam where people were testing me to see if I understood what I'd created. That was silly. I also spent a lot of time talking about the details of how the thing worked rather than what impact it would have if the project were pursued and properly developed. These frustrations aside, demo-day was valuable experience even if all I learned was what not to do. 
 
 #### November 2024
-*Good Progress*
 
+*Good Progress*
 
 I'm not yet 100% confident about my ability to communicate about systems. During the professional placement that I undertook as part of the Masters of Applied Cybernetics, someone asked me what the benefit is of adopting a systemic perspective and I was truly stumped. I couldn't even point to an example of what a system might be within my own field. I could choose to excuse this as just a one-off mistake, but I also believe that there is something fundamental that the concept of a system, being as it is abstract and intangible, will often escape the grasp even of a very practiced cybernetician. 
 
@@ -83,14 +85,18 @@ Ideation has always been easier for me than communication. I'm still often stump
 ### Objective 3 - Futuring with CPS
 
 #### March 2024
+
 *No progress*
 
 #### June 2024
+
 *Starting out*
 
 I haven't yet had a chance to practice this skill. Conversations about the CST on demo-day never reached this level of complexity. I have, however, had a good chance to look into the theory of this skill. As part of the problematique assignment I read about the maker movement and critical making. Critical making aims to open people's mind to different ways of relating to technology by allowing them to make different versions of it[^ratto]. A simple example would be constructing different types of networks (centralised, decentralised and distributed) and playing with the social consequences of different network architectures.
 
 #### November 2024
+
+*Good progress*
 
 Focused hearing did give me the opportunity to talk about possible futures that might result from technologies. One really cool aspect of focused hearing was that, for some people at least, it raised a lot of questions about ubiquitous surveillance and how we should make decisions about whether that's okay. I had a few really good conversations on demo day about how this surveillance technology is coming, and how it might change our social worlds, the workplace, for example. 
 
