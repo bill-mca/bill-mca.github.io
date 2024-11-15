@@ -152,5 +152,7 @@ This segues to another of the learnings that I just didn't expect to happen, whi
 
 Coming into this course I bought a $150 Chromebook second-hand off Gumtree, as from my perspective, there was no limit to what a good programmer could do with lightweight hardware. Coming out of the course I've now got a thirst for modern, powerful computing hardware. I think I'm going to invest in a workstation with a big GPU, as I'm now starting to conceive of whole different ways of using my computer.
 
-[^garber]:  Garber, Jonathan, Karen Thompson, Matthew J. Burns, Joshphar Kunapo, Geordie Z. Zhang, and Kathryn Russell. “Artificial Intelligence and Objective-Function Methods Can Identify Bankfull River Channel Extents.” *Water Resources Research* 60, no. 1 (2024): e2023WR035269. https://doi.org/10.1029/2023WR035269.
+## References
+
+[^garber]:  Garber, Jonathan, Karen Thompson, Matthew J. Burns, Joshphar Kunapo, Geordie Z. Zhang, and Kathryn Russell. “Artificial Intelligence and Objective-Function Methods Can Identify Bankfull River Channel Extents.” *Water Resources Research* 60, no. 1 (2024): e2023WR035269. <https://doi.org/10.1029/2023WR035269>.
 

@@ -16,7 +16,7 @@ According to Donella Meadows, a system is:
 ## Prior knowledge 
 My background is in natural resource management (NRM). Systems thinking is widely recognized as an important part of NRM however, it is rarely delineated to which issues the systems lens must be applied. Moreover, despite my 5 years experience working in NRM, I couldn't say with confidence exactly what systems thinking was. I believe that, like most NRM practitioners, I was developing an ad-hoc systems thinking skill set but lacked the ability to abstract my systems thinking from the problems that i applied it to.
 
-In preparation for this course I read *Systems Thinking - A Primer* by Donella Meadows (2008).
+In preparation for this course I read *Systems Thinking - A Primer* by Donella Meadows[^meadows].
 
 ## Progress
 ### Objective 1 - Systems thinking for design
@@ -24,7 +24,7 @@ In preparation for this course I read *Systems Thinking - A Primer* by Donella M
 #### March 2024
 *Some progress*
 
-As part of my preparation for the resource facilitation assignment, I read the book chapter *Designerly Ways of Knowing: What Does Design Have to Offer?* (Hocking 2010). Earlier, I had written a note about my goals for the build journey and, under the heading 'Systems analysis' I'd stated that my goal was "Properly describing systems and identifying where the leverage points are so that my work is purposeful and strategic". I've changed the boundary that I put around this skill and now see it as a way of relating and effecting change in the world. This is reflected in the updated objectives as stated above. My theory of change has shifted to be more about the conversations that the cybernetic stream table will provoke rather than building a CPS that will change the world. 
+As part of my preparation for the resource facilitation assignment, I read the book chapter *Designerly Ways of Knowing: What Does Design Have to Offer?*[^hocking]. Earlier, I had written a note about my goals for the build journey and, under the heading 'Systems analysis' I'd stated that my goal was "Properly describing systems and identifying where the leverage points are so that my work is purposeful and strategic". I've changed the boundary that I put around this skill and now see it as a way of relating and effecting change in the world. This is reflected in the updated objectives as stated above. My theory of change has shifted to be more about the conversations that the cybernetic stream table will provoke rather than building a CPS that will change the world. 
 
 Below is an image that I presented as part of the maker project pitch assignment. It shows my conceptualisation of a stream table as an information system with feedbacks. It also shows how I intend to augment that system by adding an extra feedback loop so that the state of the table influences the flow rate of water via a digital system. On the day I tried to explain (see objective 2, below) that the extra layers of feedback make the cybernetic stream table a better model of human interaction with the environment than a conventional stream table.
 
@@ -88,7 +88,7 @@ Ideation has always been easier for me than communication. I'm still often stump
 #### June 2024
 *Starting out*
 
-I haven't yet had a chance to practice this skill. Conversations about the CST on demo-day never reached this level of complexity. I have, however, had a good chance to look into the theory of this skill. As part of the problematique assignment I read about the maker movement and critical making. Critical making aims to open people's mind to different ways of relating to technology by allowing them to make different versions of it (Ratto, 2011). A simple example would be constructing different types of networks (centralised, decentralised and distributed) and playing with the social consequences of different network architectures.
+I haven't yet had a chance to practice this skill. Conversations about the CST on demo-day never reached this level of complexity. I have, however, had a good chance to look into the theory of this skill. As part of the problematique assignment I read about the maker movement and critical making. Critical making aims to open people's mind to different ways of relating to technology by allowing them to make different versions of it[^ratto]. A simple example would be constructing different types of networks (centralised, decentralised and distributed) and playing with the social consequences of different network architectures.
 
 #### November 2024
 
@@ -106,9 +106,9 @@ Mapping systems is certainly not a futile exercise and it does yield valuable in
 
 ## References 
 
-Hocking, TV, 2010, 'Designerly Ways of Knowing: What Does Design Have to Offer?', in *Tackling Wicked Problems*, Routledge.
+[^hocking]: Hocking, TV, 2010, 'Designerly Ways of Knowing: What Does Design Have to Offer?', in *Tackling Wicked Problems*, Routledge.
 
-Meadows, D, 2008, *Thinking in Systems: A Primer*, ed. D. Wright, Illustrated edition, Chelsea Green Publishing Co, White River Junction, Vt.
+[^meadows]: Meadows, D, 2008, *Thinking in Systems: A Primer*, ed. D. Wright, Illustrated edition, Chelsea Green Publishing Co, White River Junction, Vt.
 
-Ratto M (2011) 'Critical Making: Conceptual and Material Studies in Technology and Social Life', *The Information Society*, 27(4):252--260, doi:[10.1080/01972243.2011.583819](https://doi.org/10.1080/01972243.2011.583819)
+[^ratto]: Ratto M (2011) 'Critical Making: Conceptual and Material Studies in Technology and Social Life', *The Information Society*, 27(4):252--260, doi:[10.1080/01972243.2011.583819](https://doi.org/10.1080/01972243.2011.583819)
 

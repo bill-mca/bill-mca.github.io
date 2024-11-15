@@ -146,7 +146,10 @@ Finally, developing my markdown publishing skill has also given me insights abou
 
 ## References
 
-[^sibanetics]: 
-[^buildskills]: 
-[^scholarlyMD]:
-[^seminaryMD]:
+[^sibanetics]: McAlister, Bill, Shi Pui Ng, and Amanda Topaz. *Bill-Mca/SIBAnetics*, 2024. <https://github.com/bill-mca/SIBAnetics>.
+
+[^buildskills]:  McAlister, Bill. *Bill-Mca/CYBN8001-Build-Skills*, 2024 <https://github.com/bill-mca/CYBN8001-Build-Skills>. 
+
+[^scholarlyMD]: Lin, Tim. "Scholarly Markdown." Scholarly Markdown, n.d. <http://scholarlymarkdown.com/>.
+
+[^seminaryMD]: Krycho, Chris. "Academic Markdown." *Medium* (blog), July 28, 2015. <https://medium.com/@chriskrycho/academic-markdown-and-citations-fe562ff443df>.

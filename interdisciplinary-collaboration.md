@@ -39,7 +39,7 @@ Moon and Blackman's tools[^moonblackman] have been a useful framework, but I've 
 
 Participating in the Master's has also helped me to recognise the value of Lorrae Van Kerkhoff's thesis work[^kerkhoff]. Lorrae presents several mental models of different ways of conducting interdisciplinary research. While I haven't used these in conversation with my peers during the Master's of Applied Cybernetics, they have been in my mind and I feel that I've had a little bit more experience of applying them. Similarly, Valerie Brown's book [^twptti] has come to mind many times throughout the practice of interdisciplinary work in the Master's program. Some of the theory that we encountered as part of the Master's program will stick with me and be useful. Ariella Helfgott gave us a lecture in first semester in which she talked about her personal experience[^helfgott] of applying techniques much like systemic intervention[^midgleyrichardson] to assimilate discordant views of wicked problems. 
 
-Furthermore, in second semester, Daniel Wilden lectured us about his experience of speaking to supply chain managers about systemic perspectives[^wilden]. Of particular interest was a framework that Daniel presented of different types of problems in terms of complexity and contestation and the different systems methodologies and where it may be appropriate to apply each of them. I've also been exposed to the work of Paul Pangaro who argues that cybernetics is about conversations between systems[^pangaro]. I can see how this second order cybernetic thinking could provide a profound narrative for the purpose of interdisciplinary collaboration and I would really like to read some more of Paul's work after the course has concluded.
+Furthermore, in second semester, Daniel Wilden lectured us about his experience of speaking to supply chain managers about systemic perspectives. Of particular interest was a framework that Daniel presented of different types of problems in terms of complexity and contestation and the different systems methodologies and where it may be appropriate to apply each of them. I've also been exposed to the work of Paul Pangaro who argues that cybernetics is about conversations between systems[^pangaro]. I can see how this second order cybernetic thinking could provide a profound narrative for the purpose of interdisciplinary collaboration and I would really like to read some more of Paul's work after the course has concluded.
 
 #### Identify Shared Values as a Basis for Interdisciplinary Collaboration
 
@@ -55,20 +55,18 @@ I certainly don't feel confident that I have mastered interdisciplinary collabor
 
 ## References
 
-[^savory]: Savory, A & Butterfield, J, 1999, *Holistic management: a new framework for decision making*, Island Press, Washington, D. C.
+[^savory]: Savory, Allan, and Jody Butterfield. *Holistic Management: A New Framework for Decision Making*. Washington, D. C.: Island Press, 1999.
 
-[^kerkhoff]: 
+[^kerkhoff]: Van Kerkhoff, Lorrae. "'Making a Difference' : Science, Action and Integrated Environmental Research," 2002. <https://doi.org/10.25911/5d6271d5736e4>.
 
-[^pangaro]:
+[^pangaro]: *Cybernetics Snacks: Paul Pangaro*. YouTube video. Cybernetics Snacks. Canberra: ANU School of Cybernetics, 2022. https://cybernetics.anu.edu.au/cybernetics-snacks/paul-pangaro/.
 
-[^wilden]:
+[^helfgott]: Helfgott, Ariella Ester Rose. "Operationalizing Resilience: Conceptual, Mathematical and Participatory Frameworks for Understanding, Measuring and Managing Resilience." University of Adelaide, 2015. <https://digital.library.adelaide.edu.au/dspace/handle/2440/99913>.
 
-[^helfgott]: 
+[^midgleyrichardson]: Midgley, Gerald, and Kurt A. Richardson. “Systems Thinking for Community Involvement in Policy Analysis.” *E:CO* 9, no. 1/2 (2007): 167. <https://www.academia.edu/download/39922639/Systems_thinking_for_community_involveme20151112-10954-1nfvm3k.pdf>.
 
-[^midgleyrichardson]:
+[^twptti]: Brown, Valerie A., John Alfred Harris, and Jacqueline Y. Russell. *Tackling Wicked Problems Through the Transdisciplinary Imagination*. Earthscan, 2010.
 
-[^twptti]: Brown
+[^moonblackman]: Moon, Katie, and Deborah Blackman. "A Guide to Understanding Social Science Research for Natural Scientists." *Conservation Biology* 28, no.5 (2014): 1167--77. <https://doi.org/10.1111/cobi.12326>.
 
-[^moonblackman]: 
-
-[^sibanetics]
+[^sibanetics]: McAlister, Bill, Shi Pui Ng, and Amanda Topaz. *Bill-Mca/SIBAnetics*, 2024. <https://github.com/bill-mca/SIBAnetics>.
