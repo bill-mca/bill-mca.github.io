@@ -15,11 +15,11 @@ To summarise my progress here is self assessment of my accomplishments as of Nov
 1. [Markdown Publishing](markdown-publishing)
    - [Workflow](bill-mca.github.io/markdown-publishing.html#november-2024) I accomplished this goal
    - [Publishing Documents](bill-mca.github.io/markdown-publishing.html#november-2024-1) I accomplished this goal... but also transcended it
-   - [Publishing Websites](bill-mca.github.io/markdown-publishing.html#november-2024-2) I made good progress towards this goal
+   - [Publishing Websites](markdown-publishing#november-2024-2) I made good progress towards this goal
 2. [Systems Thinking](systems-thinking)
-   - [Systems Thinking for Design](bill-mca.github.io/systems-thinking.html#november-2024) I transcended this goal
-   - [Communicating about Systems](bill-mca.github.io/systems-thinking.html#november-2024-1) I made good progress towards this goal
-   - [Futuring with CPS](bill-mca.github.io/systems-thinking.html#november-2024-2) I made good progress towards this goal
+   - [Systems Thinking for Design](systems-thinking#november-2024) I transcended this goal
+   - [Communicating about Systems](systems-thinking#november-2024-1) I made good progress towards this goal
+   - [Futuring with CPS](systems-thinking#november-2024-2) I made good progress towards this goal
 3. [Computer Vision](computer-vision)
    - [Object Recognition](bill-mca.github.io/computer-vision.html#november-2024) I accomplished this goal
    - [Algoritm Choice](bill-mca.github.io/computer-vision.html#november-2024-1) I made good progress towards this goal
