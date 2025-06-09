@@ -1,0 +1,31 @@
+# Site settings
+title: My Blog
+email: w.mcalister@gmx.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A practitioner's journey from linear problem-solving to systems 
+  thinking in environmental restoration. Exploring how climate change 
+  demands new approaches to complexity, uncertainty, and collaboration 
+  in natural resource management. Features case studies, philosophical 
+  frameworks, and practical insights for environmental professionals 
+  navigating paradigm shifts.
+keywords: "systems thinking, environmental management, natural resource management, climate adaptation, watershed restoration, complexity science, cybernetics, environmental philosophy"
+
+author: "Bill McAlister"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bill-mca.github.io" # replace with your GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
