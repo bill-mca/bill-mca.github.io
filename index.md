@@ -1,3 +1,11 @@
-# Hello World
+---
+layout: home
+title: "Welcome to My Blog"
+description: "A blog about [your topics here]"
+---
 
-Test blag dolor sit amet
+Welcome to my blog! Here you'll find posts about [your main topics]. 
+
+Check out my latest posts below, or browse by [categories](/categories) and [tags](/tags).
+
+<!-- Posts will automatically appear here with the 'home' layout -->
